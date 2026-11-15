@@ -1,0 +1,14 @@
+field;value;basis
+Primary missions;5184;direct data, 2023
+Secondary missions;1692;direct data, 2023
+Repatriation missions;55;derived: 6931 - 5184 - 1692
+Secondary mission share, HEMS-only basis;24.4%;1692/6931
+Mission flight hours (HEMS+SAR, excl. training);7904;direct data, 2023
+Night flight-hours share;42.9%;3390/7904 mission flight hours
+Declined requests;2256;"direct data, 2023; series in norway_missed_missions_2020_2024.csv"
+Aborted requests;1168;"direct data, 2023; series in norway_missed_missions_2020_2024.csv"
+Active PinS approach procedures;103;direct data, status June 2026
+24/7 bases;13;direct data
+Stations with NVIS/NVG;13;direct data
+IFR stations;13;direct data
+Stations with blood/plasma;13;direct data

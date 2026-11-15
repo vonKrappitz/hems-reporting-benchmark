@@ -1,0 +1,96 @@
+tier;metric;operator;value;state;source;location
+A;Annual missions (operator-reported total);Rega;14714;reported;Rega Jahresbericht 2024;
+A;Annual missions (harmonised clinical total);Rega;11422;harmonised;Rega Jahresbericht 2024;
+A;Annual missions (operator-reported total);OAMTC;23810;reported;ÖAMTC Leistungsbilanz 2024;
+A;Annual missions (harmonised clinical total);OAMTC;22203;harmonised;ÖAMTC Leistungsbilanz 2024;
+A;Annual missions (operator-reported total);ADAC;49048;reported;ADAC Einsatzbilanz 2024;p. 3
+A;Annual missions (harmonised clinical total);ADAC;49048;reported;ADAC Einsatzbilanz 2024;p. 3
+A;Annual missions (operator-reported total);DRF;35850;reported;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+A;Annual missions (harmonised clinical total);DRF;35850;reported;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+A;Annual missions (operator-reported total);Norway;7141;reported;Aktivitetsrapport 2023 (LAT HF);p. 5
+A;Annual missions (harmonised clinical total);Norway;6724;harmonised;Aktivitetsrapport 2023 (LAT HF);p. 5-6
+A;Permanent bases;Rega;14;reported;Rega Jahresbericht 2024;
+A;Permanent bases;OAMTC;18;reported;ÖAMTC Leistungsbilanz 2024;
+A;Permanent bases;ADAC;38;reported;ADAC Einsatzbilanz 2024;
+A;Permanent bases;DRF;32;reported;drf-luftrettung.de and DRF press releases;
+A;Permanent bases;Norway;13;reported;Aktivitetsrapport 2023 (LAT HF);p. 15
+A;24/7 bases;Rega;14;reported;"Rega Jahresbericht 2024; rega.ch, fleet and equipment";
+A;24/7 bases;OAMTC;3;reported;"ÖAMTC Leistungsbilanz 2024; oeamtc.at, air rescue pages";
+A;24/7 bases;ADAC;3;reported;luftrettung.adac.de and ADAC press releases;
+A;24/7 bases;DRF;13;reported;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+A;24/7 bases;Norway;n.d.;missing;not in public reporting;
+A;% of bases 24/7;Rega;100%;derived;computed from published values;14/14
+A;% of bases 24/7;OAMTC;16.7%;derived;computed from published values;3/18
+A;% of bases 24/7;ADAC;7.9%;derived;computed from published values;3/38
+A;% of bases 24/7;DRF;40.6%;derived;computed from published values;13/32
+A;% of bases 24/7;Norway;n.d.;missing;not in public reporting;
+A;Helicopters in fleet;Rega;~20;derived;"Rega Jahresbericht 2024; rega.ch, fleet and equipment";p. 15
+A;Helicopters in fleet;OAMTC;32;reported;ÖAMTC Leistungsbilanz 2024;
+A;Helicopters in fleet;ADAC;55;reported;"ADAC Einsatzbilanz 2024; luftrettung.adac.de and ADAC press releases";
+A;Helicopters in fleet;DRF;~50;derived;DRF Jahresbilanz 2024;
+A;Helicopters in fleet;Norway;14;reported;Aktivitetsrapport 2023 (LAT HF);p. 15
+A;Missions per base / year;Rega;816;harmonised;computed from published values;11422/14
+A;Missions per base / year;OAMTC;1234;harmonised;computed from published values;22203/18
+A;Missions per base / year;ADAC;1291;harmonised;computed from published values;49048/38
+A;Missions per base / year;DRF;1120;harmonised;computed from published values;35850/32
+A;Missions per base / year;Norway;517;harmonised;computed from published values;6724/13
+A;Missions per helicopter / year;Rega;~571;harmonised;computed from published values;11422/20
+A;Missions per helicopter / year;OAMTC;694;harmonised;computed from published values;22203/32
+A;Missions per helicopter / year;ADAC;892;harmonised;computed from published values;49048/55
+A;Missions per helicopter / year;DRF;717;harmonised;computed from published values;35850/50
+A;Missions per helicopter / year;Norway;480;harmonised;computed from published values;6724/14
+B;Primary missions;Rega;8693;reported;Rega Jahresbericht 2024;
+B;Primary missions;OAMTC;n.d.;missing;not in public reporting;
+B;Primary missions;ADAC;n.d.;missing;not in public reporting;
+B;Primary missions;DRF;n.d.;missing;not in public reporting;
+B;Primary missions;Norway;n.d.;missing;not in public reporting;supplementary material
+B;Secondary missions;Rega;2729;reported;Rega Jahresbericht 2024;
+B;Secondary missions;OAMTC;n.d.;missing;not in public reporting;
+B;Secondary missions;ADAC;n.d.;missing;not in public reporting;
+B;Secondary missions;DRF;n.d.;missing;not in public reporting;
+B;Secondary missions;Norway;n.d.;missing;not in public reporting;
+B;Secondary mission share %;Rega;23.9%;harmonised;computed from published values;2729/11422
+B;Secondary mission share %;OAMTC;n.d.;missing;not in public reporting;
+B;Secondary mission share %;ADAC;n.d.;missing;not in public reporting;
+B;Secondary mission share %;DRF;n.d.;missing;not in public reporting;
+B;Secondary mission share %;Norway;~25.2%;harmonised;computed from published values;"23.7% x 7141 = ~1692; 1692/6724 = ~25.2%"
+B;Night missions %;Rega;24.9%;harmonised;Rega Jahresbericht 2024;
+B;Night missions %;OAMTC;5.8%;harmonised;ÖAMTC Leistungsbilanz 2024;
+B;Night missions %;ADAC;6.4%;harmonised;ADAC Einsatzbilanz 2024;p. 3
+B;Night missions %;DRF;11.3%;harmonised;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+B;Night missions %;Norway;n.d.;missing;not in public reporting;supplementary material
+B;Stations with winch;Rega;14;reported;rega.ch, fleet and equipment;
+B;Stations with winch;OAMTC;0;reported;ÖAMTC Leistungsbilanz 2024;
+B;Stations with winch;ADAC;6;reported;ADAC Einsatzbilanz 2024;
+B;Stations with winch;DRF;4;reported;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+B;Stations with winch;Norway;0;reported;Aktivitetsrapport 2023 (LAT HF);supplementary material
+B;Stations with NVIS/NVG;Rega;14;reported;"Rega Jahresbericht 2024; rega.ch, fleet and equipment";
+B;Stations with NVIS/NVG;OAMTC;18;reported;ÖAMTC Leistungsbilanz 2024;
+B;Stations with NVIS/NVG;ADAC;6;reported;ADAC Einsatzbilanz 2024;
+B;Stations with NVIS/NVG;DRF;14;reported;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+B;Stations with NVIS/NVG;Norway;n.d.;missing;not in public reporting;
+B;IFR stations;Rega;14;reported;"Rega Jahresbericht 2024; rega.ch, fleet and equipment";
+B;IFR stations;OAMTC;3;reported;"ÖAMTC Leistungsbilanz 2024; oeamtc.at, air rescue pages";
+B;IFR stations;ADAC;0;reported;"luftrettung.adac.de and ADAC press releases; national regulatory position";
+B;IFR stations;DRF;0;reported;"drf-luftrettung.de and DRF press releases; national regulatory position";
+B;IFR stations;Norway;n.d.;missing;not in public reporting;
+B;PinS approaches;Rega;1;reported;Swiss FOCA authorisation, 18 July 2024;
+B;PinS approaches;OAMTC;n.d.;missing;not in public reporting;
+B;PinS approaches;ADAC;n.d.;missing;not in public reporting;
+B;PinS approaches;DRF;n.d.;missing;not in public reporting;
+B;PinS approaches;Norway;n.d.;missing;not in public reporting;supplementary material
+B;Stations with blood/plasma;Rega;n.d.;missing;not in public reporting;
+B;Stations with blood/plasma;OAMTC;n.d.;missing;not in public reporting;
+B;Stations with blood/plasma;ADAC;n.d.;missing;not in public reporting;
+B;Stations with blood/plasma;DRF;5;reported;"DRF Jahresbilanz 2024; drf-luftrettung.de and DRF press releases";
+B;Stations with blood/plasma;Norway;n.d.;missing;not in public reporting;
+B;Annual flight hours;Rega;n.d.;missing;not in public reporting;
+B;Annual flight hours;OAMTC;n.d.;missing;not in public reporting;
+B;Annual flight hours;ADAC;n.d.;missing;not in public reporting;
+B;Annual flight hours;DRF;n.d.;missing;not in public reporting;
+B;Annual flight hours;Norway;8811;reported;Aktivitetsrapport 2023 (LAT HF);p. 7
+DEN;Missed-mission denominator;Rega;n.d.;missing;not in public reporting;
+DEN;Missed-mission denominator;OAMTC;n.d.;missing;not in public reporting;
+DEN;Missed-mission denominator;ADAC;n.d.;missing;not in public reporting;
+DEN;Missed-mission denominator;DRF;n.d.;missing;not in public reporting;
+DEN;Missed-mission denominator;Norway;n.d.;missing;not in public reporting;

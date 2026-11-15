@@ -1,0 +1,255 @@
+{
+ "matrix": [
+  {
+   "tier": "A",
+   "metric": "Annual missions (operator-reported total)",
+   "dagger": true,
+   "states": [
+    "reported",
+    "reported",
+    "reported",
+    "reported",
+    "reported"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "Annual missions (harmonised clinical total)",
+   "dagger": false,
+   "states": [
+    "harmonised",
+    "harmonised",
+    "reported",
+    "reported",
+    "harmonised"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "Permanent bases",
+   "dagger": false,
+   "states": [
+    "reported",
+    "reported",
+    "reported",
+    "reported",
+    "reported"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "24/7 bases",
+   "dagger": true,
+   "states": [
+    "reported",
+    "reported",
+    "reported",
+    "reported",
+    "missing"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "% of bases 24/7",
+   "dagger": true,
+   "states": [
+    "derived",
+    "derived",
+    "derived",
+    "derived",
+    "missing"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "Helicopters in fleet",
+   "dagger": false,
+   "states": [
+    "derived",
+    "reported",
+    "reported",
+    "derived",
+    "reported"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "Missions per base / year",
+   "dagger": false,
+   "states": [
+    "harmonised",
+    "harmonised",
+    "harmonised",
+    "harmonised",
+    "harmonised"
+   ]
+  },
+  {
+   "tier": "A",
+   "metric": "Missions per helicopter / year",
+   "dagger": false,
+   "states": [
+    "harmonised",
+    "harmonised",
+    "harmonised",
+    "harmonised",
+    "harmonised"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Primary missions",
+   "dagger": true,
+   "states": [
+    "reported",
+    "missing",
+    "missing",
+    "missing",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Secondary missions",
+   "dagger": true,
+   "states": [
+    "reported",
+    "missing",
+    "missing",
+    "missing",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Secondary mission share %",
+   "dagger": false,
+   "states": [
+    "harmonised",
+    "missing",
+    "missing",
+    "missing",
+    "harmonised"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Night missions %",
+   "dagger": true,
+   "states": [
+    "harmonised",
+    "harmonised",
+    "harmonised",
+    "harmonised",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Stations with winch",
+   "dagger": true,
+   "states": [
+    "reported",
+    "reported",
+    "reported",
+    "reported",
+    "reported"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Stations with NVIS/NVG",
+   "dagger": false,
+   "states": [
+    "reported",
+    "reported",
+    "reported",
+    "reported",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "IFR stations",
+   "dagger": true,
+   "states": [
+    "reported",
+    "reported",
+    "reported",
+    "reported",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "PinS approaches",
+   "dagger": false,
+   "states": [
+    "reported",
+    "missing",
+    "missing",
+    "missing",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Stations with blood/plasma",
+   "dagger": false,
+   "states": [
+    "missing",
+    "missing",
+    "missing",
+    "reported",
+    "missing"
+   ]
+  },
+  {
+   "tier": "B",
+   "metric": "Annual flight hours",
+   "dagger": true,
+   "states": [
+    "missing",
+    "missing",
+    "missing",
+    "missing",
+    "reported"
+   ]
+  },
+  {
+   "tier": "DEN",
+   "metric": "Missed-mission denominator",
+   "dagger": false,
+   "states": [
+    "missing",
+    "missing",
+    "missing",
+    "missing",
+    "missing"
+   ]
+  }
+ ],
+ "counts": {
+  "A": {
+   "reported": 19,
+   "harmonised": 13,
+   "missing": 2,
+   "derived": 6
+  },
+  "B": {
+   "reported": 18,
+   "missing": 26,
+   "harmonised": 6
+  },
+  "DEN": {
+   "missing": 5
+  }
+ },
+ "operators": [
+  "Rega",
+  "ÖAMTC",
+  "ADAC",
+  "DRF",
+  "Air Ambulance Services of Norway"
+ ]
+}
